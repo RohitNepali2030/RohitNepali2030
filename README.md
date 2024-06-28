@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RohitNepali2030
+- 👋 Hi, I’m @RohitNepali
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C And Python 
 - 💞️ I’m looking to collaborate on Some Tech Companies 
